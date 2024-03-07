@@ -1,0 +1,10 @@
+{
+  "name": "SHRMONO",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "license": "ISC"
+}
